@@ -11,6 +11,7 @@
     <div class="server-status">
     Class server is currently <span style="color: green;"class="">Online</span>!
     </div>
+    <div style="color: ;">IP: <span style="color: blue;"class="">98.143.255.140</span></div>
   </div>
   <div class="quiz-window-body">
     <div class="gui-window-awards">
@@ -22,20 +23,20 @@
       </ul>
       <ul class="guiz-awards-row guiz-awards-row-even">
         <li class="guiz-awards-star"><span class="star goldstar"></span></li>
-        <li class="guiz-awards-title">Vanilla Server
+        <li class="guiz-awards-title">Tekkit Server
           <div style="color: green;" class="server-online"></div>
         </li>
         <li class="players-now"></li>
 
-        <li class="guiz-awards-time">1.15.2</li>
+        <li class="guiz-awards-time">1.12.2</li>
       </ul>
       <ul class="guiz-awards-row">
         <li class="guiz-awards-star"><span class="star silverstar"></span></li>
-        <li class="guiz-awards-title">Modded Server
+        <li class="guiz-awards-title">Vanilla Server
           <div style="color: red;" class="server-onlinen">Offline</div>
         </li>
         <li class="guiz-awards-track"><span class="null">0</span></li>
-        <li class="guiz-awards-time"><span class="null">0</span></li>
+        <li class="guiz-awards-time"><span class="null">1.15.2</span></li>
       </ul>
       
      
