@@ -11,7 +11,7 @@
     <div class="server-status">
     Class server is currently <span style="color: green;"class="">Online</span>!
     </div>
-    <div style="color: ;">IP: <span style="color: blue;"class="">98.143.255.140</span></div>
+    <div style="color: ;">IP: <span style="color: blue;">98.143.255.140</span></div>
   </div>
   <div class="quiz-window-body">
     <div class="gui-window-awards">
@@ -23,7 +23,7 @@
       </ul>
       <ul class="guiz-awards-row guiz-awards-row-even">
         <li class="guiz-awards-star"><span class="star goldstar"></span></li>
-        <li class="guiz-awards-title">Tekkit Server
+        <li class="guiz-awards-title">FTB Server
           <div style="color: green;" class="server-online"></div>
         </li>
         <li class="players-now"></li>
